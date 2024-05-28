@@ -1,0 +1,501 @@
+role_ID,role_name,description
+0,Volunteer,very very very very very very very very bad
+1,Driver,good
+2,Nurse,very very very very very very very very excellent
+3,Manager,very very very very very bad
+4,Manager,bad
+5,Security,very very very very very very very very good
+6,Supervisor,very very very very very very very very very bad
+7,Manager,very very very very good
+8,Secretary,very very very very very very very bad
+9,Driver,very very very very very excellent
+10,Paramedic,very very very very very very very very excellent
+11,Paramedic,very very very very very bad
+12,Receptionist,very very bad
+13,Security,very very very very very very good
+14,Driver,good
+15,Supervisor,very excellent
+16,Firefighter,very very very very very very very good
+17,Soldier,very very very very very very very very very bad
+18,Electrician,very excellent
+19,Manager,very very very very very very very very very good
+20,Security,very very very very very very very very good
+21,Secretary,very very very very very very very bad
+22,Security,very very bad
+23,Electrician,very bad
+24,Mechanic,very very very very very very very very very good
+25,Electrician,very very very very very very very good
+26,Pilot,very very excellent
+27,Doctor,very very very very very bad
+28,Driver,very excellent
+29,Mechanic,very bad
+30,Nurse,very good
+31,Secretary,very excellent
+32,Manager,very very very very very very very very very excellent
+33,Electrician,very very very very excellent
+34,Engineer,very very very very good
+35,Soldier,very very very excellent
+36,Manager,very very very very very excellent
+37,Manager,very very very very very good
+38,Technician,very very very very very excellent
+39,Doctor,very bad
+40,Police,very very very very very very very good
+41,Supervisor,very very very very very very very very very excellent
+42,Engineer,very very very very very bad
+43,Nurse,very very very very very very very good
+44,Paramedic,very very bad
+45,Doctor,bad
+46,Supervisor,very very very very good
+47,Doctor,excellent
+48,Paramedic,very very very very very very very very good
+49,Secretary,very very good
+50,Driver,very very very excellent
+51,Doctor,very excellent
+52,Manager,very very very excellent
+53,Coordinator,very very very very very very very good
+54,Receptionist,very very very bad
+55,Guard,very very very very very very very very excellent
+56,Receptionist,very very good
+57,Engineer,very very very very very very very very very bad
+58,Receptionist,very very bad
+59,Doctor,very very very very good
+60,Secretary,very very very very very bad
+61,Receptionist,very excellent
+62,Volunteer,very very very very very very very excellent
+63,Guard,very very very very very very good
+64,Manager,very very very very very very very very bad
+65,Engineer,top quality
+66,Volunteer,excellent
+67,Engineer,very very very very very very very very very bad
+68,Secretary,very very very very bad
+69,Soldier,very very very very very bad
+70,Security,very very very very very very very very excellent
+71,Police,very very very very very very very very good
+72,Volunteer,good
+73,Firefighter,very very very very very very very bad
+74,Mechanic,very very very excellent
+75,Paramedic,very very very very very very very very bad
+76,Volunteer,very very very very very very bad
+77,Supervisor,very bad
+78,Receptionist,very very very very very very very very very good
+79,Pilot,good
+80,Police,very good
+81,Mechanic,top quality
+82,Technician,very very very very excellent
+83,Engineer,very very very very very very very very very excellent
+84,Police,very very very very very very very very very bad
+85,Receptionist,good
+86,Engineer,very very excellent
+87,Police,very very very very very very very bad
+88,Police,very very very very very very very very very good
+89,Coordinator,very very very very very very very excellent
+90,Pilot,very very very very very very very very excellent
+91,Soldier,very very very very very very very very very excellent
+92,Driver,very very very very very bad
+93,Supervisor,very very very very very very very good
+94,Soldier,very very very very very very excellent
+95,Nurse,very very very very very very very very very good
+96,Pilot,very very very very very very very very excellent
+97,Engineer,very very very very very very excellent
+98,Pilot,very very very very very bad
+99,Soldier,bad
+100,Manager,very very very very very very very excellent
+101,Technician,very very very very very bad
+102,Volunteer,very very very very very very excellent
+103,Manager,very very good
+104,Pilot,very very very very very very bad
+105,Paramedic,very very very very very very very very good
+106,Secretary,very very very very very bad
+107,Guard,very very very very very very very very very excellent
+108,Electrician,very very very very very very very very very excellent
+109,Paramedic,very very very very very bad
+110,Technician,very very very very very very very very bad
+111,Technician,very very excellent
+112,Security,good
+113,Nurse,excellent
+114,Nurse,very very very very very very very very very bad
+115,Volunteer,very very very very very very very excellent
+116,Mechanic,very very very very very very very bad
+117,Firefighter,very very very bad
+118,Police,very very excellent
+119,Guard,very very very very very very very very very bad
+120,Firefighter,very very very very very very very very excellent
+121,Guard,very very very very very very very good
+122,Guard,very very very very very excellent
+123,Soldier,very good
+124,Firefighter,very very very very very very very very good
+125,Coordinator,very very very good
+126,Nurse,very very very very very very good
+127,Paramedic,very very very good
+128,Soldier,very excellent
+129,Soldier,very very very very excellent
+130,Supervisor,very very very very very excellent
+131,Volunteer,very very good
+132,Guard,very very excellent
+133,Manager,very very very good
+134,Secretary,very very very very very very very very bad
+135,Manager,very very very very very very good
+136,Police,very very very very very very very very very excellent
+137,Secretary,very very very good
+138,Volunteer,very very very very very very good
+139,Receptionist,very good
+140,Coordinator,very very very bad
+141,Guard,very very very very very very very very very good
+142,Volunteer,very very very bad
+143,Volunteer,very very very excellent
+144,Driver,very very very very very very good
+145,Engineer,very very very very bad
+146,Pilot,very very very very bad
+147,Firefighter,very very very very very very very bad
+148,Police,very excellent
+149,Volunteer,excellent
+150,Technician,very very good
+151,Receptionist,very very very very very very bad
+152,Supervisor,very good
+153,Pilot,very very very very very very bad
+154,Firefighter,good
+155,Manager,very very very very very very very excellent
+156,Engineer,very very very very very very very very excellent
+157,Paramedic,very very good
+158,Manager,very very very bad
+159,Paramedic,very bad
+160,Doctor,very bad
+161,Technician,very very very very very very very good
+162,Paramedic,very very very very very very very bad
+163,Mechanic,very very bad
+164,Secretary,very very very very very very very bad
+165,Security,very very very very very very very very bad
+166,Engineer,very very very very very very very very excellent
+167,Receptionist,very very very very very very very very bad
+168,Supervisor,bad
+169,Technician,very very very very very very good
+170,Electrician,very very very very very very very very bad
+171,Technician,very very bad
+172,Driver,very very very bad
+173,Doctor,very very very very good
+174,Doctor,excellent
+175,Volunteer,very very very bad
+176,Firefighter,very very very very excellent
+177,Supervisor,very very very very very very bad
+178,Supervisor,very excellent
+179,Paramedic,very very good
+180,Receptionist,very good
+181,Firefighter,very very very very excellent
+182,Technician,very very very bad
+183,Paramedic,very very bad
+184,Mechanic,very very very very very very very very bad
+185,Receptionist,excellent
+186,Manager,very very very very very good
+187,Mechanic,very very very very very very excellent
+188,Soldier,very bad
+189,Supervisor,very very very very very good
+190,Electrician,top quality
+191,Secretary,very very very very very very very very very excellent
+192,Guard,good
+193,Engineer,very very very very very very very very very good
+194,Pilot,good
+195,Soldier,very good
+196,Driver,very very very very very very very good
+197,Volunteer,very very good
+198,Manager,very very very very very very good
+199,Firefighter,very very very very very very very very very excellent
+200,Soldier,very very very very very very very very very excellent
+201,Doctor,very good
+202,Guard,very very very very very very very good
+203,Coordinator,very very very very very very good
+204,Pilot,very very very very very very very very very bad
+205,Driver,very very very very good
+206,Secretary,very very very very excellent
+207,Coordinator,very excellent
+208,Nurse,very very very very very very very very very excellent
+209,Firefighter,very very very very very very very very very bad
+210,Mechanic,very very very very good
+211,Pilot,very very very very bad
+212,Supervisor,very very very very excellent
+213,Receptionist,very very very very bad
+214,Coordinator,very very very very very good
+215,Receptionist,very very very very very very very very very good
+216,Driver,very very very very very very very very excellent
+217,Paramedic,very very very very very very bad
+218,Firefighter,very very very very very very very very bad
+219,Doctor,very very very very very very very very bad
+220,Paramedic,very bad
+221,Firefighter,very good
+222,Doctor,very very very very very good
+223,Doctor,very very very very very very very good
+224,Manager,very very very very very very good
+225,Doctor,very very very very very bad
+226,Police,very very very very very very very very very good
+227,Mechanic,very very very bad
+228,Police,very very very very very very very very very bad
+229,Supervisor,very very very good
+230,Supervisor,very very very very very very very bad
+231,Doctor,very very very very very very very very good
+232,Volunteer,very very bad
+233,Manager,very good
+234,Coordinator,very very very very very very very very good
+235,Manager,very very very very very very very very very good
+236,Technician,very good
+237,Driver,very very very very good
+238,Supervisor,very very very very excellent
+239,Technician,bad
+240,Coordinator,very very very bad
+241,Firefighter,very very very very very good
+242,Volunteer,bad
+243,Police,very very excellent
+244,Pilot,very very very very very very bad
+245,Electrician,bad
+246,Police,very good
+247,Receptionist,very very excellent
+248,Pilot,very very very very very very very very good
+249,Police,top quality
+250,Manager,very very very very very very very very very bad
+251,Doctor,very very very very good
+252,Manager,good
+253,Driver,very very very very very very very very bad
+254,Technician,very very excellent
+255,Volunteer,very very very very very very very very very good
+256,Nurse,very very very very very bad
+257,Firefighter,very very very very very very very good
+258,Police,very very very very very bad
+259,Paramedic,very very very very very very very very bad
+260,Firefighter,very very very very very very very very excellent
+261,Technician,very good
+262,Mechanic,very very very very very very very good
+263,Receptionist,very very very very very very very very excellent
+264,Engineer,very very very very very good
+265,Supervisor,very very bad
+266,Engineer,very very very very good
+267,Guard,very very very very very good
+268,Doctor,very good
+269,Doctor,very very very bad
+270,Manager,very very very very very very bad
+271,Mechanic,very very very very very very excellent
+272,Firefighter,very very very very very very good
+273,Volunteer,very excellent
+274,Soldier,very excellent
+275,Volunteer,very good
+276,Paramedic,very very very very very very good
+277,Soldier,very very very very very very very excellent
+278,Coordinator,very very very very very very good
+279,Firefighter,very very good
+280,Volunteer,very very very very excellent
+281,Nurse,very very very very very very good
+282,Doctor,very very good
+283,Nurse,very very very very very very excellent
+284,Electrician,very very very very very very good
+285,Soldier,very very very very very very very very very good
+286,Security,very very very very very very excellent
+287,Pilot,very bad
+288,Paramedic,very very very very very very good
+289,Police,very excellent
+290,Engineer,excellent
+291,Supervisor,very very very very very excellent
+292,Receptionist,very very very very very very very very excellent
+293,Nurse,very very very very very very very very excellent
+294,Mechanic,very very very good
+295,Firefighter,very excellent
+296,Police,very very very bad
+297,Manager,very excellent
+298,Paramedic,very very very very good
+299,Receptionist,excellent
+300,Manager,very very very very very good
+301,Engineer,very very very very very very very very good
+302,Technician,very very very very good
+303,Pilot,very very very very very very very bad
+304,Volunteer,very very very very very very bad
+305,Receptionist,very very very very very very very very excellent
+306,Driver,very very very very very very very excellent
+307,Volunteer,very good
+308,Security,very very very very very very very very very excellent
+309,Technician,very very good
+310,Secretary,very very very very very very very excellent
+311,Guard,very very excellent
+312,Guard,very very bad
+313,Mechanic,very very very excellent
+314,Doctor,very very very very very very very very excellent
+315,Doctor,very very very very good
+316,Police,very very very very bad
+317,Soldier,very very good
+318,Supervisor,very very very very very very very very very excellent
+319,Paramedic,very very very very very very bad
+320,Firefighter,very very very very very very very very very good
+321,Secretary,very very very good
+322,Volunteer,top quality
+323,Paramedic,very very very very very very good
+324,Driver,very very very very very very very good
+325,Receptionist,very very very very very very very very very excellent
+326,Receptionist,excellent
+327,Soldier,very very very very excellent
+328,Nurse,very excellent
+329,Security,very very very bad
+330,Supervisor,very very very very very very very very excellent
+331,Receptionist,very very very very bad
+332,Manager,very very bad
+333,Engineer,very very very very very very good
+334,Firefighter,very very very very very very very very good
+335,Secretary,very very very very very very very very bad
+336,Soldier,excellent
+337,Engineer,very very very very very very bad
+338,Electrician,very very very very good
+339,Doctor,very very bad
+340,Engineer,very very very excellent
+341,Volunteer,very very very bad
+342,Manager,bad
+343,Paramedic,top quality
+344,Security,very very very very very excellent
+345,Pilot,very very good
+346,Coordinator,top quality
+347,Technician,very very very very very very very very very excellent
+348,Volunteer,very very very very very very excellent
+349,Volunteer,very very very very very very very very bad
+350,Pilot,very very very very very very very very good
+351,Electrician,very very very very very very very good
+352,Coordinator,bad
+353,Mechanic,good
+354,Technician,very very very very very excellent
+355,Driver,very very excellent
+356,Security,very very very very good
+357,Pilot,bad
+358,Nurse,bad
+359,Security,very very very very very very good
+360,Supervisor,very very very very very very very good
+361,Security,very good
+362,Mechanic,bad
+363,Technician,very very very very very very excellent
+364,Pilot,very very very very very very very very very bad
+365,Driver,very very excellent
+366,Nurse,bad
+367,Paramedic,very very very very very very very very very excellent
+368,Manager,very very very very very good
+369,Driver,very very very very very very very very good
+370,Guard,very very very very very very very bad
+371,Supervisor,very very very very very very bad
+372,Soldier,very excellent
+373,Driver,very very very very very very very very bad
+374,Driver,very very very very very very very very good
+375,Receptionist,very very very very very excellent
+376,Police,very very very very very very very very very bad
+377,Firefighter,very excellent
+378,Engineer,very very very very very very very very very bad
+379,Electrician,very very very very excellent
+380,Supervisor,very very very very very very very very excellent
+381,Pilot,very very good
+382,Supervisor,good
+383,Volunteer,very very excellent
+384,Police,very very very very very very very very very excellent
+385,Electrician,very very very very very very very very very good
+386,Secretary,top quality
+387,Soldier,very very very very very bad
+388,Secretary,very very very very very excellent
+389,Mechanic,very very very very excellent
+390,Firefighter,very very very excellent
+391,Pilot,very excellent
+392,Nurse,very very very very very good
+393,Nurse,very very very very good
+394,Security,top quality
+395,Pilot,very very very very good
+396,Mechanic,very very very very very very very excellent
+397,Firefighter,very very very very very very very bad
+398,Manager,very very very good
+399,Nurse,excellent
+400,Technician,very very very very very very very very very bad
+401,Pilot,bad
+402,Doctor,very excellent
+403,Pilot,top quality
+404,Mechanic,very very good
+405,Doctor,very very very very very good
+406,Coordinator,very very very very very very very very bad
+407,Police,very very very excellent
+408,Engineer,bad
+409,Engineer,very excellent
+410,Police,very very very very very very very very very bad
+411,Volunteer,very very very very very bad
+412,Soldier,very very very very very good
+413,Volunteer,bad
+414,Engineer,very very very very very very excellent
+415,Manager,very very very very very very very very very good
+416,Doctor,very very very bad
+417,Secretary,very very very very very very very excellent
+418,Manager,very very very very very very very bad
+419,Nurse,very very very very very good
+420,Manager,very very very very very very very good
+421,Mechanic,very very very very very very very very very excellent
+422,Electrician,very very very very good
+423,Volunteer,very very very good
+424,Soldier,excellent
+425,Guard,very very very very excellent
+426,Coordinator,very very very very very very very bad
+427,Guard,very very very very very very very good
+428,Security,top quality
+429,Technician,very very very very good
+430,Paramedic,good
+431,Police,very bad
+432,Firefighter,very excellent
+433,Secretary,very very very very very very good
+434,Technician,top quality
+435,Engineer,very very very very very bad
+436,Manager,very very very very very very very bad
+437,Paramedic,very very very very very very very very very good
+438,Police,very very very very very very very very very good
+439,Nurse,very very very very very very good
+440,Secretary,very very very very very bad
+441,Secretary,very bad
+442,Technician,very very very very very very good
+443,Mechanic,very very very very very excellent
+444,Pilot,very very very very very very very very good
+445,Nurse,very very bad
+446,Soldier,very very very very very excellent
+447,Guard,very very very very bad
+448,Police,bad
+449,Coordinator,very very very bad
+450,Mechanic,bad
+451,Secretary,very very bad
+452,Receptionist,very very very very bad
+453,Driver,very very good
+454,Pilot,very very very excellent
+455,Engineer,very very very very very very very very very excellent
+456,Driver,very very very very very good
+457,Secretary,very excellent
+458,Driver,very very very very very excellent
+459,Nurse,very very very bad
+460,Supervisor,very very very very bad
+461,Firefighter,very very excellent
+462,Engineer,very very bad
+463,Volunteer,bad
+464,Pilot,very excellent
+465,Engineer,top quality
+466,Driver,very very very very very very very very good
+467,Electrician,very very very very very very very very very good
+468,Doctor,very very bad
+469,Secretary,very very very very very very very good
+470,Volunteer,very very very bad
+471,Firefighter,very very very very very very very good
+472,Pilot,top quality
+473,Driver,very excellent
+474,Driver,very very very very very very very very very excellent
+475,Coordinator,very very very very good
+476,Driver,very good
+477,Doctor,very very very very excellent
+478,Security,very very very good
+479,Pilot,very very very very very very bad
+480,Mechanic,very very very very very very very bad
+481,Doctor,very excellent
+482,Coordinator,very very very very very very very very very good
+483,Soldier,very very very very very bad
+484,Nurse,very very excellent
+485,Nurse,very very very very very very excellent
+486,Technician,very very very very very very bad
+487,Soldier,very very good
+488,Doctor,very very very very very excellent
+489,Volunteer,very very excellent
+490,Receptionist,top quality
+491,Technician,very very very very very very very very very bad
+492,Secretary,very very excellent
+493,Volunteer,very very very very very very very very good
+494,Mechanic,very good
+495,Supervisor,very very very excellent
+496,Electrician,very very bad
+497,Coordinator,very very very excellent
+498,Security,very very very very very very excellent
+499,Security,very very very very very very very very very good

@@ -1,0 +1,501 @@
+base_ID,location,description
+0,Kiryat Gat,very very very very very excellent
+1,Lod,very bad
+2,Kiryat Tivon,very excellent
+3,Haifa,good
+4,Rosh HaAyin,very very very very very very very very excellent
+5,Herzliya,very very very very excellent
+6,Holon,very very very very very very good
+7,Bnei Brak,very very very very very good
+8,Kiryat Ata,very very very very very very very good
+9,Holon,very very very bad
+10,Beer Sheva,very very very very very excellent
+11,Beer Sheva,very very very very very very very very very bad
+12,Kiryat Ekron,very very very very very very very very very bad
+13,Tel Aviv,good
+14,Kiryat Sharet,very very very very very very very good
+15,Ramat HaSharon,very very very very very very bad
+16,Haifa,very very very excellent
+17,Haifa,excellent
+18,Ramat Gan,very very bad
+19,Kiryat Ata,very very very very excellent
+20,Kiryat Yam,very very very very very very very very very good
+21,Kiryat Motzkin,very excellent
+22,Rishon LeZion,top quality
+23,Kiryat Haim,very very very very very very very very good
+24,Bat Yam,very excellent
+25,Holon,very excellent
+26,Jerusalem,very very very very very bad
+27,Kiryat Haim,very very excellent
+28,Rishon LeZion,very very very very very good
+29,Bat Yam,very very very bad
+30,Petah Tikva,very very very very very very very very very excellent
+31,Bnei Brak,very very very very excellent
+32,Rosh HaAyin,very very very very very very very very excellent
+33,Rishon LeZion,very very bad
+34,Ashkelon,very very very very very bad
+35,Bat Yam,very very bad
+36,Ramat Gan,very very very very very very good
+37,Rishon LeZion,very very very very very very very good
+38,Ramat HaSharon,top quality
+39,Lod,very very very good
+40,Kiryat Arba,very very very good
+41,Kiryat Shmona,very very very excellent
+42,Ramat HaSharon,very very very very very very very very excellent
+43,Kiryat Yam,very very very very bad
+44,Ramat Gan,very very very very very very very very excellent
+45,Kiryat Haim,very very very very very good
+46,Kiryat Bialik,very very very very very very very very good
+47,Herzliya,very very very very very very very very very good
+48,Kiryat Arba,very very very very very excellent
+49,Kiryat Gat,very very very very very very very bad
+50,Kiryat Bialik,very very very very very very very very very bad
+51,Ramat HaSharon,very very very very excellent
+52,Kiryat Yam,very excellent
+53,Petah Tikva,very excellent
+54,Petah Tikva,very very excellent
+55,Kiryat Motzkin,very very very very very very very very very bad
+56,Rishon LeZion,very very very very very excellent
+57,Petah Tikva,very very very excellent
+58,Kiryat Arba,very very very very very very very very bad
+59,Kiryat Arba,very very very very bad
+60,Kiryat Yam,very good
+61,Netanya,very very very very very very very very very bad
+62,Ashdod,very very very excellent
+63,Beer Sheva,very very good
+64,Kiryat Motzkin,very very very very good
+65,Kiryat Bialik,very very very very very good
+66,Kiryat Ono,very bad
+67,Netanya,very very very very very very very bad
+68,Kiryat Arba,very very very very very very very very bad
+69,Kiryat Haim,very very excellent
+70,Kiryat Malachi,very very good
+71,Haifa,very very very very very very very very bad
+72,Kiryat Ekron,very very very very very very very very excellent
+73,Bat Yam,very very good
+74,Netanya,very very very very very very very very bad
+75,Kiryat Yam,very very very very very very very very bad
+76,Kiryat Malachi,top quality
+77,Bat Yam,very very very very very very very very bad
+78,Ashkelon,very very very very very very bad
+79,Herzliya,excellent
+80,Ramat HaSharon,very very very very very very very good
+81,Ashdod,very very very good
+82,Bat Yam,very very very very very very very very excellent
+83,Lod,very very good
+84,Rishon LeZion,very very excellent
+85,Kiryat Gat,very very very very very very excellent
+86,Beit Shemesh,very very very good
+87,Kiryat Haim,very very good
+88,Jerusalem,very very very very very very bad
+89,Kiryat Ono,good
+90,Ramat Gan,top quality
+91,Herzliya,very very very very very very very bad
+92,Beer Sheva,top quality
+93,Holon,very bad
+94,Bat Yam,very very very very very very very excellent
+95,Ashkelon,very very very very very very very bad
+96,Kiryat Gat,very very excellent
+97,Beit Shemesh,very very bad
+98,Rishon LeZion,very very very very very very very very very bad
+99,Kiryat Ata,very very very very very very very very very excellent
+100,Ashdod,very very bad
+101,Holon,good
+102,Kiryat Haim,very very bad
+103,Haifa,very very very very very very very very very good
+104,Kiryat Bialik,very very very excellent
+105,Beit Shemesh,good
+106,Kiryat Gat,very very very bad
+107,Kiryat Sharet,very bad
+108,Herzliya,good
+109,Herzliya,very very very very very very very very very excellent
+110,Netanya,very bad
+111,Kiryat Ekron,very very very very very very very very very bad
+112,Petah Tikva,very excellent
+113,Kiryat Shmona,very excellent
+114,Kiryat Motzkin,very very very very very very very bad
+115,Beer Sheva,very very very good
+116,Kiryat Shmona,very very very good
+117,Beer Sheva,very very very excellent
+118,Herzliya,very very good
+119,Haifa,very very very very very very very very excellent
+120,Kiryat Haim,very very very very very very very very very good
+121,Kiryat Sharet,top quality
+122,Jerusalem,very very very bad
+123,Ramat HaSharon,very excellent
+124,Kiryat Tivon,very very very good
+125,Petah Tikva,very very very very very excellent
+126,Beit Shemesh,very very very very very very very very bad
+127,Ramat Gan,very very very very very very good
+128,Kiryat Malachi,very very very very bad
+129,Haifa,very very very very very very bad
+130,Kiryat Yam,very very very very good
+131,Kiryat Shmona,good
+132,Ramat HaSharon,very very very very excellent
+133,Kiryat Motzkin,very very very very very bad
+134,Herzliya,very very very very good
+135,Kiryat Gat,very very very very very very good
+136,Bnei Brak,very very very bad
+137,Kiryat Ono,bad
+138,Herzliya,very very very very very very very very very bad
+139,Kiryat Ono,very very very very good
+140,Kiryat Malachi,very very very bad
+141,Kiryat Sharet,excellent
+142,Ashdod,very very very very very very excellent
+143,Kiryat Sharet,very very very very very very bad
+144,Bnei Brak,very very very good
+145,Holon,very very very very very very very bad
+146,Kiryat Malachi,very good
+147,Kiryat Ata,very very very very very very very very good
+148,Beit Shemesh,very very very very very bad
+149,Kiryat Haim,good
+150,Kiryat Bialik,very very good
+151,Ramat HaSharon,very very very very very bad
+152,Kiryat Bialik,excellent
+153,Kiryat Arba,top quality
+154,Kiryat Haim,very very very very very very very very very excellent
+155,Kiryat Sharet,very very very excellent
+156,Kiryat Ono,very very bad
+157,Ashdod,very excellent
+158,Kiryat Yam,very very very very very very very very very excellent
+159,Kiryat Sharet,very very very very good
+160,Kiryat Bialik,very very very very very very very bad
+161,Kiryat Ata,very very very very very excellent
+162,Beit Shemesh,very very very very very very bad
+163,Haifa,very very very very good
+164,Bnei Brak,bad
+165,Rishon LeZion,very very very very very excellent
+166,Kiryat Shmona,very very very very very very very very bad
+167,Beit Shemesh,very very very very very good
+168,Kiryat Malachi,very very very very very very very very excellent
+169,Bnei Brak,very very very good
+170,Haifa,top quality
+171,Beer Sheva,very very very very very excellent
+172,Ramat HaSharon,excellent
+173,Kiryat Ekron,very very very very very very good
+174,Kiryat Ekron,very very very very very good
+175,Kiryat Ono,very very very very very very very very very good
+176,Haifa,very very very very very very excellent
+177,Holon,very very very very very very very excellent
+178,Kiryat Bialik,very bad
+179,Kiryat Shmona,very bad
+180,Tel Aviv,excellent
+181,Kiryat Sharet,very good
+182,Rosh HaAyin,bad
+183,Kiryat Yam,bad
+184,Jerusalem,very very excellent
+185,Kiryat Malachi,very very very very very very very good
+186,Kiryat Motzkin,very very very very very bad
+187,Kiryat Tivon,very very very good
+188,Ramat Gan,excellent
+189,Ashkelon,top quality
+190,Bnei Brak,very very very very very very bad
+191,Kiryat Bialik,excellent
+192,Beer Sheva,very excellent
+193,Kiryat Sharet,excellent
+194,Kiryat Ono,very bad
+195,Kiryat Ata,top quality
+196,Kiryat Ekron,very very very very very very very bad
+197,Ramat HaSharon,very very excellent
+198,Kiryat Arba,very very very very very very very very very bad
+199,Kiryat Arba,very very very very very very good
+200,Kiryat Ono,very excellent
+201,Kiryat Ono,very very very very very very very very bad
+202,Kiryat Haim,very very very very very very very very very good
+203,Rishon LeZion,bad
+204,Kiryat Arba,very very very excellent
+205,Haifa,very very very very very very good
+206,Beit Shemesh,very very very very good
+207,Kiryat Bialik,excellent
+208,Kiryat Motzkin,very very very very very very very very very excellent
+209,Kiryat Motzkin,very excellent
+210,Kiryat Ata,excellent
+211,Kiryat Ono,very very very very very very very very good
+212,Tel Aviv,very very excellent
+213,Lod,very very very very very very very very excellent
+214,Kiryat Ono,good
+215,Kiryat Ata,very excellent
+216,Kiryat Gat,very very very excellent
+217,Rosh HaAyin,very very very very very good
+218,Kiryat Motzkin,very very very very very very very good
+219,Tel Aviv,very very very very very very very very very excellent
+220,Kiryat Ekron,very very very bad
+221,Bnei Brak,very good
+222,Bnei Brak,very very very very very very very excellent
+223,Kiryat Tivon,very very very excellent
+224,Kiryat Tivon,very very very very very good
+225,Jerusalem,very very good
+226,Petah Tikva,very bad
+227,Bat Yam,very very very bad
+228,Holon,very very excellent
+229,Bat Yam,very very very very very very very excellent
+230,Ashdod,very excellent
+231,Ashkelon,very very very very very very very very very good
+232,Petah Tikva,very very very very very very good
+233,Netanya,very very excellent
+234,Kiryat Ata,very very excellent
+235,Kiryat Ekron,very very very very very very very very very bad
+236,Rosh HaAyin,very bad
+237,Ramat Gan,very very very very excellent
+238,Holon,very very very very very very very very very good
+239,Kiryat Yam,very very very very very good
+240,Jerusalem,very very very very bad
+241,Kiryat Haim,very very very very very very very very very good
+242,Kiryat Motzkin,very very very very very good
+243,Rosh HaAyin,bad
+244,Kiryat Bialik,very very very very very very very very bad
+245,Herzliya,very very excellent
+246,Jerusalem,very very very bad
+247,Ramat HaSharon,very very very very very good
+248,Ramat HaSharon,very bad
+249,Kiryat Arba,very very very very very very very very very good
+250,Ashkelon,top quality
+251,Ramat HaSharon,very very very very very excellent
+252,Kiryat Bialik,good
+253,Ramat Gan,very very very very excellent
+254,Rishon LeZion,top quality
+255,Ashkelon,very very very very very very very very very bad
+256,Kiryat Arba,very very very good
+257,Kiryat Haim,very excellent
+258,Kiryat Haim,very very very very bad
+259,Petah Tikva,very very very very excellent
+260,Ashkelon,very very very bad
+261,Ramat HaSharon,top quality
+262,Kiryat Gat,good
+263,Netanya,very very bad
+264,Kiryat Ata,very very very very very excellent
+265,Kiryat Yam,very very very very very very very very good
+266,Rishon LeZion,very excellent
+267,Ashkelon,very very very bad
+268,Kiryat Malachi,very very very very very excellent
+269,Petah Tikva,good
+270,Kiryat Motzkin,bad
+271,Kiryat Arba,very very very very bad
+272,Kiryat Bialik,very very very very very very very bad
+273,Bat Yam,excellent
+274,Kiryat Shmona,very very very very very very good
+275,Netanya,very very very very very bad
+276,Ashkelon,very very very very excellent
+277,Jerusalem,very very very very very very very very very excellent
+278,Kiryat Shmona,very very very very very very excellent
+279,Kiryat Ekron,very very very very good
+280,Kiryat Yam,very bad
+281,Rosh HaAyin,very very very very bad
+282,Beit Shemesh,very very very very very very very bad
+283,Ramat Gan,very very very very very very excellent
+284,Kiryat Tivon,very very very very very good
+285,Kiryat Gat,very very very bad
+286,Kiryat Motzkin,very very very very excellent
+287,Lod,very very good
+288,Kiryat Bialik,very very very very bad
+289,Lod,very bad
+290,Beit Shemesh,very very very very very good
+291,Rishon LeZion,very very very very good
+292,Bat Yam,very bad
+293,Kiryat Ata,good
+294,Netanya,bad
+295,Kiryat Arba,very very very very very very very very bad
+296,Ashdod,very good
+297,Jerusalem,very very very very very very very bad
+298,Kiryat Yam,very very very good
+299,Tel Aviv,very very very very very very very excellent
+300,Kiryat Motzkin,good
+301,Kiryat Ono,very very very very very very good
+302,Herzliya,bad
+303,Rishon LeZion,very very very excellent
+304,Rishon LeZion,very excellent
+305,Kiryat Shmona,very very very very bad
+306,Ashkelon,very very very good
+307,Bat Yam,very very very very bad
+308,Kiryat Sharet,very very very very good
+309,Tel Aviv,very very very excellent
+310,Tel Aviv,very very very very very very very very very excellent
+311,Bnei Brak,very very very very very bad
+312,Ashkelon,very very very excellent
+313,Holon,very bad
+314,Herzliya,very very very very very very very bad
+315,Netanya,very very very very very bad
+316,Kiryat Ekron,very very very very very very good
+317,Ashdod,very very very very very very very excellent
+318,Bat Yam,good
+319,Beer Sheva,very very very very very very very very excellent
+320,Rosh HaAyin,excellent
+321,Ramat HaSharon,very good
+322,Kiryat Ekron,very very very very very very very very excellent
+323,Lod,very very very very very very very very bad
+324,Kiryat Malachi,very very very very very excellent
+325,Kiryat Shmona,very very very very very very very bad
+326,Lod,very very very very very bad
+327,Lod,very very very very very very good
+328,Kiryat Sharet,very very very very very excellent
+329,Rishon LeZion,bad
+330,Kiryat Sharet,very very very very very very very bad
+331,Beer Sheva,very excellent
+332,Kiryat Ekron,very very very very very excellent
+333,Kiryat Gat,very very very very excellent
+334,Kiryat Arba,very very very very very excellent
+335,Tel Aviv,very very very good
+336,Ramat Gan,very very very very very good
+337,Netanya,very very very good
+338,Herzliya,very very good
+339,Ramat Gan,top quality
+340,Herzliya,very good
+341,Kiryat Sharet,very very very very very very excellent
+342,Kiryat Yam,very very good
+343,Kiryat Sharet,very very very very good
+344,Kiryat Bialik,very very very very very very very very very bad
+345,Herzliya,very good
+346,Ashkelon,very very very very very very very good
+347,Kiryat Arba,very very very very very very very very excellent
+348,Lod,very very excellent
+349,Petah Tikva,very very very very very very very very very good
+350,Lod,very very very very very very very very very excellent
+351,Kiryat Ekron,very very very very very very very bad
+352,Kiryat Malachi,very very very very very very very bad
+353,Kiryat Malachi,very very very very very very very excellent
+354,Bat Yam,very very very very very very very good
+355,Lod,very very very very very very bad
+356,Rishon LeZion,very very very very very very very very excellent
+357,Kiryat Ekron,very very very very very excellent
+358,Kiryat Arba,very very very bad
+359,Kiryat Motzkin,very very very very very very very excellent
+360,Ashkelon,very very very very very very bad
+361,Kiryat Ono,very very good
+362,Kiryat Ono,very very very very very bad
+363,Netanya,very very very very very very very very excellent
+364,Rishon LeZion,very very very very good
+365,Kiryat Tivon,very very very very very excellent
+366,Haifa,very very very very very very good
+367,Herzliya,very very very very excellent
+368,Bnei Brak,very very very very good
+369,Kiryat Sharet,very very very bad
+370,Kiryat Haim,very very very very very very very very very bad
+371,Herzliya,bad
+372,Haifa,very very very excellent
+373,Ashdod,very very very very very very very bad
+374,Petah Tikva,top quality
+375,Beit Shemesh,very very very very very very very excellent
+376,Netanya,very very very very excellent
+377,Kiryat Ono,very very very very very very very very very bad
+378,Kiryat Ono,very very very very very very very very excellent
+379,Kiryat Motzkin,very very bad
+380,Kiryat Shmona,very good
+381,Kiryat Malachi,very very very very very very very very very excellent
+382,Kiryat Shmona,very very very very excellent
+383,Ashdod,very very very bad
+384,Haifa,very good
+385,Kiryat Ata,very very very excellent
+386,Haifa,very excellent
+387,Herzliya,very very excellent
+388,Lod,very very very good
+389,Kiryat Gat,very very very very very good
+390,Ramat Gan,very very excellent
+391,Haifa,very very very very very very very very good
+392,Tel Aviv,very very very very very very very very very good
+393,Kiryat Yam,very very very very very bad
+394,Ramat Gan,very very very very excellent
+395,Beit Shemesh,top quality
+396,Kiryat Bialik,very bad
+397,Petah Tikva,very very very very good
+398,Rishon LeZion,very very very very very very very very very bad
+399,Netanya,very very very very very very bad
+400,Kiryat Gat,very very very bad
+401,Tel Aviv,very very very very very very very very very bad
+402,Kiryat Ono,very very very very very excellent
+403,Ashkelon,very very bad
+404,Kiryat Bialik,bad
+405,Ramat Gan,very very very very very bad
+406,Ramat Gan,very very good
+407,Kiryat Shmona,very very very very excellent
+408,Beer Sheva,very very very very bad
+409,Bnei Brak,very very very very very very very very bad
+410,Kiryat Shmona,very excellent
+411,Kiryat Gat,very very very good
+412,Ramat HaSharon,very very very very very very good
+413,Holon,excellent
+414,Kiryat Yam,very very very very very very very very excellent
+415,Kiryat Malachi,very very very excellent
+416,Ashdod,very bad
+417,Petah Tikva,very very very very very very very bad
+418,Kiryat Ata,very very very excellent
+419,Jerusalem,very bad
+420,Kiryat Tivon,very very very very very very good
+421,Kiryat Ono,very excellent
+422,Kiryat Ata,very very very very good
+423,Lod,very very very excellent
+424,Beer Sheva,very very very very very excellent
+425,Kiryat Shmona,very very very very very very good
+426,Holon,very very very good
+427,Bnei Brak,very very very very very excellent
+428,Kiryat Arba,very very very good
+429,Tel Aviv,very very very very very very very bad
+430,Holon,very very very good
+431,Bnei Brak,very very very very very very very very very bad
+432,Jerusalem,very very very very very very very bad
+433,Herzliya,top quality
+434,Bnei Brak,very very very bad
+435,Kiryat Arba,very very very very very bad
+436,Kiryat Haim,very very very very very excellent
+437,Kiryat Tivon,very very good
+438,Ramat HaSharon,very very very very good
+439,Kiryat Shmona,very very good
+440,Ramat HaSharon,very very very very bad
+441,Kiryat Haim,very excellent
+442,Ramat HaSharon,very very very very very very very very very good
+443,Beit Shemesh,very very very good
+444,Kiryat Ekron,very very very very very excellent
+445,Beer Sheva,very very very bad
+446,Ashkelon,very very very very very very very very very bad
+447,Tel Aviv,very very very very very very very very excellent
+448,Kiryat Bialik,excellent
+449,Holon,very very very very very good
+450,Ashdod,top quality
+451,Kiryat Malachi,very very very very very very very good
+452,Petah Tikva,very very very very very good
+453,Kiryat Bialik,very very very very very excellent
+454,Kiryat Arba,very very very very very very very very very good
+455,Kiryat Yam,very very very very very very very excellent
+456,Ramat HaSharon,very very very very very very excellent
+457,Kiryat Ata,very very very very very very very excellent
+458,Holon,very very very very very very very very very bad
+459,Holon,excellent
+460,Tel Aviv,very very very very very good
+461,Kiryat Malachi,very very very very good
+462,Kiryat Sharet,very bad
+463,Kiryat Ata,very very very very very very bad
+464,Kiryat Ata,very very very very very excellent
+465,Ashkelon,good
+466,Kiryat Motzkin,very very very very very very bad
+467,Kiryat Bialik,very very very very very bad
+468,Kiryat Ono,very bad
+469,Kiryat Bialik,bad
+470,Bat Yam,very excellent
+471,Netanya,very very very very very good
+472,Rishon LeZion,very very very bad
+473,Kiryat Haim,excellent
+474,Kiryat Haim,very bad
+475,Petah Tikva,very very very very very very good
+476,Rishon LeZion,very very bad
+477,Petah Tikva,very very very very good
+478,Lod,very very very very very very very very bad
+479,Kiryat Arba,very very very very very bad
+480,Kiryat Sharet,very very very very very very very very bad
+481,Kiryat Sharet,very very very bad
+482,Kiryat Malachi,top quality
+483,Kiryat Arba,very very very excellent
+484,Kiryat Sharet,very very very very very very good
+485,Bnei Brak,very very very very very very excellent
+486,Kiryat Arba,very very very very very very very very very good
+487,Tel Aviv,very very very very very very very good
+488,Lod,very very very very very very excellent
+489,Jerusalem,very very very very very very very very very excellent
+490,Beer Sheva,very very very very very bad
+491,Herzliya,very very very very very very very very very bad
+492,Kiryat Gat,very very bad
+493,Ramat Gan,very very very very excellent
+494,Kiryat Haim,very very very very very bad
+495,Herzliya,bad
+496,Ashkelon,very very very very very very very very good
+497,Petah Tikva,very very very very very good
+498,Kiryat Yam,very very bad
+499,Kiryat Bialik,very very very very very very very good
