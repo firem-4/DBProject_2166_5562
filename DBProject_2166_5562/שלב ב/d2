@@ -1,0 +1,3 @@
+UPDATE Volunteers
+SET role_ID = 2
+WHERE volunteer_ID = 1;
