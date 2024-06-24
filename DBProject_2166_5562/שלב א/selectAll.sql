@@ -4,4 +4,4 @@ select * from Gear;
 select * from Personal__Info;
 select * from Volunteers;
 select * from signed_up;
-
+select * from Shifts;
