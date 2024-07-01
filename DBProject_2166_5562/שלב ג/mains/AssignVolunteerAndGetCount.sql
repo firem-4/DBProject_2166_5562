@@ -1,8 +1,8 @@
 BEGIN
-  -- Call the procedure to assign the volunteer to a shift
-  assign_volunteer_to_shift(1, 101);
+  -- קריאה לפרוצדורה לשיוך מתנדב למשמרת
+  assign_volunteer_to_shift(1, 1);
   
-  -- Call the function to get the total shifts for the volunteer
+  -- קריאה לפונקציה לקבלת מספר המשמרות עבור המתנדב
   DECLARE
     v_shift_count NUMBER;
   BEGIN

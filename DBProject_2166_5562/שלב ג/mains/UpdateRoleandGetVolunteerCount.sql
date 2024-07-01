@@ -1,8 +1,8 @@
 BEGIN
-  -- Call the procedure to update the volunteer's role
+  -- קריאה לפרוצדורה לעדכון תפקיד המתנדב
   update_volunteer_role(1, 2);
   
-  -- Call the function to get the volunteer count by role
+  -- קריאה לפונקציה לקבלת מספר המתנדבים בתפקיד
   DECLARE
     v_volunteer_count NUMBER;
   BEGIN
