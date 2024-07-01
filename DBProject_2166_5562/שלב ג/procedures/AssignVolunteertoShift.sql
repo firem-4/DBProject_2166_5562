@@ -21,4 +21,4 @@ EXCEPTION
     DBMS_OUTPUT.PUT_LINE('Volunteer is already signed up for this shift.');
   WHEN OTHERS THEN
     RAISE_APPLICATION_ERROR(-20003, 'An error occurred: ' || SQLERRM);
-END;
+END; 
