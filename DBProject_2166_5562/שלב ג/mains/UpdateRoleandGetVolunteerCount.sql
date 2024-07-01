@@ -10,4 +10,3 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Total volunteers in role 2: ' || v_volunteer_count);
   END;
 END;
-/

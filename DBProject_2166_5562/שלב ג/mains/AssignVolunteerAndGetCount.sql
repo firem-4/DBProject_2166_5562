@@ -10,4 +10,3 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Total shifts for volunteer 1: ' || v_shift_count);
   END;
 END;
-/
