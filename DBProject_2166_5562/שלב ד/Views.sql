@@ -23,6 +23,7 @@ FROM PERSONAL_INFO_VIEW
 WHERE address LIKE '%תל אביב%';
 
 
+
 --additional views
 
 
