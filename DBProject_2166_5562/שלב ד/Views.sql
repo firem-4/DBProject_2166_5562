@@ -24,6 +24,7 @@ WHERE address LIKE '%תל אביב%';
 
 
 
+
 --additional views
 
 
